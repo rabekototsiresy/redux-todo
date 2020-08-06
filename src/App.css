@@ -1,0 +1,27 @@
+body,div{
+  text-align: center;
+}
+input{
+  width: 200px;
+  height: 30px;
+  margin: 0 10px;
+}
+#bAdd{
+  height: 30px;
+}
+
+tr,th,td{
+  text-align: center;
+  padding: 10px 50px;
+  /* border: 2px solid black; */
+ 
+}
+table,tr{
+  border-collapse: collapse;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+#mainTable{
+  margin: 0 30%;
+}
